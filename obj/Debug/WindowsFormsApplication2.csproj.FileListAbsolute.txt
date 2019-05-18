@@ -1,0 +1,104 @@
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Students\АИСТбд-21\Климов_Стас\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\student\Desktop\bot-master\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\student\Desktop\bot-master\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Desktop\bot-master\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Desktop\bot-master\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Desktop\bot-master\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Desktop\bot-master\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\bot-master\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\student\Desktop\bot-master\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\student\Desktop\bot-master\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\student\Desktop\bot-master\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\bot-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\student\Downloads\bot-master\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\student\Downloads\bot-master\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Downloads\bot-master\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Downloads\bot-master\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Downloads\bot-master\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Downloads\bot-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\student\Downloads\bot-master\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\bot-master\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\student\Downloads\bot-master\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\student\Downloads\bot-master\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\student\Downloads\bot-master\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Student\Downloads\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Student\Downloads\maxersoft-master\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\maxersoft-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\student\Downloads\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\student\Desktop\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Desktop\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Desktop\maxersoft-master\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.CalculatorForm.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.ReadNotesForm.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.lockscreen.resources
+C:\Users\Student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.SIngUpForm.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.SIngUpForm.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.lockscreen.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.CalculatorForm.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.ReadNotesForm.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\student\Downloads\maxersoft-master (4)\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\student\Desktop\maxersoft-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.SingUpForm.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.lockscreen.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.CalculatorForm.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.ReadNotesForm.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\student\Documents\maxersoft-master\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\student\Documents\maxersoft-master\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\student\Documents\maxersoft-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\student\Documents\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.RedactorForm.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.DrawingForm.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.GaleryForm.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.SystemTimeForm.resources
+C:\Users\student\Desktop\maxersoft-master\obj\Debug\WindowsFormsApplication2.OpenForm.resources
